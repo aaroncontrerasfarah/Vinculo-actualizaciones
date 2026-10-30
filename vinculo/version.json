@@ -1,8 +1,8 @@
 {
- "web": 1,
+ "web": 2,
  "nativo": "7686b3911ff4",
  "zip": "web.zip",
  "apk": "vinculo.apk",
- "fecha": "2026-10-30T01:20:48Z",
- "notas": "Primera versión de Vínculo."
+ "fecha": "2026-10-30T14:39:59Z",
+ "notas": "El servidor de Vínculo viene incluido: terapeuta y pareja se conectan solo con el código y la clave."
 }
