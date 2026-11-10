@@ -1,8 +1,8 @@
 {
- "web": 9,
+ "web": 12,
  "nativo": "9062e2326027",
  "zip": "web.zip",
  "apk": "vinculo.apk",
- "fecha": "2026-11-10T22:02:25Z",
- "notas": "Merge pull request #6 from aaroncontrerasfarah/firma-fija"
+ "fecha": "2026-11-10T22:24:16Z",
+ "notas": "Firma: limpia la contrase\u00f1a y reempaqueta la clave en formato moderno"
 }
