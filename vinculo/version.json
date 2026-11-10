@@ -1,8 +1,8 @@
 {
- "web": 4,
+ "web": 5,
  "nativo": "7686b3911ff4",
  "zip": "web.zip",
  "apk": "vinculo.apk",
- "fecha": "2026-11-10T13:08:17Z",
- "notas": "Diseño más amigable y profesional, versión para pacientes, consentimiento informado y servidor propio."
+ "fecha": "2026-11-10T13:27:39Z",
+ "notas": "Merge pull request #2 from aaroncontrerasfarah/diseno-amigable"
 }
