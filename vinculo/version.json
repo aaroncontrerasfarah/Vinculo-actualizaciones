@@ -1,8 +1,8 @@
 {
- "web": 13,
+ "web": 14,
  "nativo": "9062e2326027",
  "zip": "web.zip",
  "apk": "vinculo.apk",
- "fecha": "2026-11-10T22:34:34Z",
- "notas": "Merge pull request #7 from aaroncontrerasfarah/firma-normalizar"
+ "fecha": "2026-11-11T17:13:32Z",
+ "notas": "Merge pull request #8 from aaroncontrerasfarah/aviso-y-descarga"
 }
