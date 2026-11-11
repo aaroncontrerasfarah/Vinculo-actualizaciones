@@ -1,8 +1,8 @@
 {
- "web": 15,
+ "web": 16,
  "nativo": "9062e2326027",
  "zip": "web.zip",
  "apk": "vinculo.apk",
- "fecha": "2026-11-11T17:48:40Z",
- "notas": "Merge pull request #9 from aaroncontrerasfarah/direccion-servidor"
+ "fecha": "2026-11-11T17:52:58Z",
+ "notas": "Merge pull request #10 from aaroncontrerasfarah/salida-rapida"
 }
